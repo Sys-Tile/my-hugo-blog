@@ -3,3 +3,6 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Project'
 theme = "ananke"
+[build]
+  [[build.env]]
+    HUGO_VERSION = "0.121.2"
