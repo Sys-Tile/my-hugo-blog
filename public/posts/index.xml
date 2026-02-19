@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/hello-azure/</link>
       <pubDate>Thu, 19 Feb 2026 15:03:17 +0900</pubDate>
       <guid>http://localhost:1313/posts/hello-azure/</guid>
-      <description></description>
+      <description>&lt;p&gt;##初めてのHugoブログ&lt;/p&gt;&#xA;&lt;p&gt;Azure Static WEB APPsの勉強のため、まずはHUGOを使ってみたよ&#xA;　　　…っていきなり反映されとるやないか&lt;/p&gt;&#xA;&lt;p&gt;これ改行示すのは一段あけるのかな&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
